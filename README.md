@@ -2,6 +2,7 @@
 Requirements:
 - Raspberry Pi with Raspbian OS installed
 - LEDs and wiring to connect to the GPIO pins
+- Breadboard to wire circuit
 - Terminal access on the Raspberry Pi
 - Program file (`street.s`)
 
